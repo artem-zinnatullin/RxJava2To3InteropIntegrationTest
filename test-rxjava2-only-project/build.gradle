@@ -1,0 +1,9 @@
+apply plugin: "java-library"
+
+dependencies {
+    implementation "io.reactivex.rxjava2:rxjava:2.2.11-ARTEM1"
+}
+
+dependencies {
+    testImplementation "junit:junit:4.12"
+}

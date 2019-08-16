@@ -1,0 +1,3 @@
+include ':test-rxjava2-and-3-project'
+include ':test-rxjava2-only-project'
+include ':test-rxjava3-only-project'
